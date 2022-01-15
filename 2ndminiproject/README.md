@@ -88,6 +88,3 @@ The objective of the Run Analysis Mini Project is to clean and extract data from
     tidy_data[order(tidy_data$Subject, tidy_data$Activity),]
    Convert the *Subject* column from the extracted data into factor variable. Then, create a data set called *tidy_data* that contains the average of each variable for each activity and subject. Lastly, rearrange the arguments using the order function in *tidy_data* and there have it, you can now have your independent tidy data.
    
-# Tidy Data
-<img src="C:/Users/andre/Desktop/2ndminiproject\tidy data.png" alt="TIny Data"/>
-
